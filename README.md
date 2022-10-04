@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning ...
 
-    Lua for Roblox(As a starting place before college)
+    Luau
+    Blueprints
+    C#
 
 - 💞️ I’m looking to collaborate on ...
 
