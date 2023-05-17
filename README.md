@@ -8,6 +8,7 @@
     Luau
     Blueprints
     C#
+    C++
 
 - 💞️ I’m looking to collaborate on ...
 
